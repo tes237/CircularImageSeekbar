@@ -1,0 +1,11 @@
+<resources>
+
+    <declare-styleable name="PageInfo">
+        <attr name="page_count" format="integer" />
+        <attr name="circular_menu" format="boolean"></attr>
+        <attr name="page_default_title" format="string"></attr>
+    </declare-styleable>
+
+
+
+</resources>
