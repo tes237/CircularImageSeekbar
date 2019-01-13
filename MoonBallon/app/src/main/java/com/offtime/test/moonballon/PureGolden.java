@@ -60,6 +60,8 @@ public class PureGolden extends View
     {
         super(context);
         initPureGolden();
+		
+		int a = -1;
     }
 
     public PureGolden(Context context, AttributeSet attrs)
