@@ -71,6 +71,7 @@ public class PureGolden extends View
         initPureGolden();
 		
 		String aaa = "aaa";
+		int conf = 1;
     }
 
     @Override
