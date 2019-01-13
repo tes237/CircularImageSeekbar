@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
 		
 		int aaa = 0;
+		int bbb = 0;
     }
 
     @Override
