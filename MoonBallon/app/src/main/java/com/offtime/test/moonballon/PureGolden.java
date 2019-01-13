@@ -68,6 +68,8 @@ public class PureGolden extends View
     {
         super(context, attrs);
         initPureGolden();
+		
+		int main_val = 333;
     }
 
     @Override
