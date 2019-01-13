@@ -69,6 +69,8 @@ public class PureGolden extends View
     {
         super(context, attrs);
         initPureGolden();
+		
+		int test001 = 1;
     }
 
     @Override
