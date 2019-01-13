@@ -70,6 +70,7 @@ public class PureGolden extends View
         initPureGolden();
 		
 		int main_val = 333;
+		int master_change = 0;
     }
 
     @Override
